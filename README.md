@@ -153,10 +153,8 @@ UPI-Transactions-Analysis-Tableau/
 │   ├── UPI+Transactions.xlsx
 │   └── Sample++Superstore+Sales+(Excel).xls
 │
-├── Dashboard/
-│   ├── UPI Transactions Dashboard.twb
-│   └── Dashboard Preview.png
-│
+├── Dashboard Preview.png
+├── UPI Transactions Dashboard.twbx
 └── README.md
 ```
 
